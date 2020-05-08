@@ -1,8 +1,8 @@
 # IAA-IT17032070-miniproject
-## Consist of server audit report .pdf file
+# Consist of server audit report .pdf file in repository
 ## Visit for practical demo 
--[Youtube](https://www.youtube.com/watch?v=6Gha-FzKgUI&t=529s)
--[Youtube](https://www.youtube.com/watch?v=ynt_0OsOWjg&t=56s)
+-[Linux server audit](https://www.youtube.com/watch?v=6Gha-FzKgUI&t=529s)
+-[Windows server audit](https://www.youtube.com/watch?v=ynt_0OsOWjg&t=56s)
 
 ## Below mentioned are the commands for installing and performing the following audits in linux server(Ubuntu 16.04).
 
